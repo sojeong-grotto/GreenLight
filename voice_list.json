@@ -1,0 +1,6 @@
+[
+  {"filename": "red.wave", "text": "현재 빨간 신호입니다. 신호가 바뀔 때까지 기다려 주시기 바랍니다."},
+  {"filename": "green.wave", "text": "초록 신호입니다. 안전하게 횡단보도를 이용하여 건너가셔도 됩니다."},
+  {"filename": "green_to_red.wave",   "text": "신호가 바뀝니다. 다음 신호를 이용해 주시기 바랍니다."},
+  {"filename": "roadway_exit.wave",   "text": "위험합니다! 차도로 나가지 마세요. "}
+]

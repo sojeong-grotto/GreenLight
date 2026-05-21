@@ -1,0 +1,15 @@
+# Large generated artifacts / datasets
+*.zip
+*.mp4
+*.whl
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local environment and editor files
+.env
+.venv/
+venv/
+.idea/
+.vscode/

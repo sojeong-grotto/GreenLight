@@ -1,0 +1,7 @@
+sidewalk
+braille_guide_blocks
+roadway
+alley
+crosswalk
+bike_lane
+caution_zone

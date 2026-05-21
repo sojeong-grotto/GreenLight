@@ -1,0 +1,10 @@
+person
+vehicle
+mobility_aid
+animal
+vertical_obstacle
+temporary_obstacle
+bench
+traffic_light
+traffic_sign
+bus_taxi_stop

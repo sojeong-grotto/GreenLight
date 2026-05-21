@@ -1,0 +1,7 @@
+[
+  {"filename": "red.wave", "text": "현재 빨간 신호입니다."},
+  {"filename": "green.wave", "text": "초록 신호입니다."},
+  {"filename": "green_to_red.wave",   "text": "신호가 바뀝니다."},
+  {"filename": "roadway_exit.wave",   "text": "위험합니다!"},
+  {"filename": "this.wave",   "text": "이렇게 수정하면 되나요?. "}
+]
